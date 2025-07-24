@@ -1,0 +1,1 @@
+function ಠ_ಠ770(o,s){return o+s}module.ಠ_ಠ771=ಠ_ಠ770,console.log("[32m\nOlá o resultado de sua soma no SUM.JS é: ",ಠ_ಠ770(15,15),"\n"),console.log("Já no aritimética.js é: ");
